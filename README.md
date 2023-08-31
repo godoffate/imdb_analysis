@@ -1,1 +1,1 @@
-# imdb_analysis
+# IMDB ANALYSIS PROJECT
